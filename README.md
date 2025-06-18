@@ -9,6 +9,7 @@ Training Partner: Coding Blocks
 ________________________________________
 
 📌 Overview
+
 This repository contains all the code, assignments, and project work completed as part of the Full Stack Development Internship (JOVAC). The training focuses on building web applications using modern frontend and backend technologies.
 ________________________________________
 📅 Timeline
